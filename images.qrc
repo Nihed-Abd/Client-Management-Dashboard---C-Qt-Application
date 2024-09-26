@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/logo"/>
+    <qresource prefix="/">
+        <file>../../Nouveau dossier (2)/nihed/logo.png</file>
+    </qresource>
+</RCC>
